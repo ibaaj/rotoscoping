@@ -55,8 +55,10 @@ simple rotoscoping effect with [imagemagick](http://www.imagemagick.org) and [ff
 If you change a little bit the first script's example you can create a real chronophotography.
 
 ![birds.jpg](./birds.jpg)
+* I took the video at Pont Austerlitz, Paris (video length: 12 seconds, 240fps).
 
-* start your loop at 2 and use composite with the previous frame*
+
+*start your loop at 2 and use composite with the previous frame*
 
 
 
