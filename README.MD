@@ -54,7 +54,7 @@ simple rotoscoping effect with [imagemagick](http://www.imagemagick.org) and [ff
 
 If you change a little bit the first script's example you can create a real chronophotography.
 
-![birds.png](./birds.png)
+![birds.jpg](./birds.jpg)
 
 * start your loop at 2 and use composite with the previous frame*
 
