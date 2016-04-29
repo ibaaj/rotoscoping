@@ -50,6 +50,16 @@ simple rotoscoping effect with [imagemagick](http://www.imagemagick.org) and [ff
 - create video from new frames
 
 
+## Bonus 
+
+If you change a little bit the first script's example you can create a real chronophotography.
+
+![birds.png](./birds.png)
+
+* start your loop at 2 and use composite with the previous frame*
+
+
+
 ## License MIT
 
 Copyright (c) 2016 ibaaj on github
